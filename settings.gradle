@@ -1,0 +1,2 @@
+rootProject.name = "KTDH_VuXuanThe"
+include ':app'

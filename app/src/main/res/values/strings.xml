@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bezier Curve</string>
+    <string name="str_title">Đường Cong Bezier trong 3D</string>
+    <string name="str_bezier">Giải Thuật Bezier</string>
+    <string name="str_draw_bezier">Vẽ đường cong Bezier</string>
+    <string name="str_apply">Áp dụng</string>
+</resources>
